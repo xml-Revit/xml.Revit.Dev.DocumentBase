@@ -1,0 +1,11 @@
+<RevitAddIns>
+    <AddIn Type="Application">
+        <Name>微信公众号:Revit二次开发教程</Name>
+        <Assembly>xml.Revit.Dev.DocumentBase/xml.Revit.Dev.DocumentBase.dll</Assembly>
+        <AddInId>988314A7-60FD-4A70-A11F-C9964024B05A</AddInId>
+        <FullClassName>xml.Revit.Dev.DocumentBase.Application</FullClassName>
+        <VendorId>xml</VendorId>
+        <VendorEmail>zedmoster1@gmail.com</VendorEmail>
+        <VendorDescription>微信公众号:Revit二次开发教程</VendorDescription>
+    </AddIn>
+</RevitAddIns>
